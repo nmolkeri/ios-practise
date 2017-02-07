@@ -26,8 +26,6 @@ class ViewController: UIViewController {
         var contentWidth: CGFloat = 0.0
 
         
-        
-        
         for x in 0...2{
             let image = UIImage(named: "icon\(x).png")
             let imageView = UIImageView(image: image)
